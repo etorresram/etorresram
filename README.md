@@ -50,7 +50,6 @@
 
 
 ## **Featured Projects**
-###  **Key Machine Learning & NLP Projects**
 <a href="https://github.com/etorresram/NLP-and-Embeddings-for-Economic-Sector-Classification-in-Small-Job-Posting-Data">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=NLP-and-Embeddings-for-Economic-Sector-Classification-in-Small-Job-Posting-Data&theme=tokyonight&title_length=100" />
 </a>  
