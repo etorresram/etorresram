@@ -59,7 +59,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Unsupervised-Learning-Model-for-Job-Postings-Clustering-and-Skills-Identification&theme=tokyonight&title_length=100" />
 </a>  
 
+<a href="https://github.com/etorresram/Estimating-Labor-Markets-Transition-Probabilities">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Estimating-Labor-Markets-Transition-Probabilities&theme=tokyonight&title_length=100" />
+</a>  
 
+<a href="https://github.com/etorresram/Sea-Surface-Temperature-and-Anomaly-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Sea-Surface-Temperature-and-Anomaly-Dashboard&theme=tokyonight&title_length=100" />
+</a>  
 
 ## ** GitHub Stats** <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <details> 
