@@ -23,7 +23,7 @@
 
 
 ## **Tech Stack**
-💻 **Programming & Data Analysis**  
+**Programming & Data Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1F77B4?style=for-the-badge&logo=stata&logoColor=white)
@@ -36,13 +36,13 @@
 ![Shiny](https://img.shields.io/badge/Shiny-%23007ACC.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-119ED9?style=for-the-badge&logo=plotly&logoColor=white)
 
-🚀 **Big Data & Cloud Computing**  
+**Big Data & Cloud Computing**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
-🛠 **Development & Version Control**  
+**Development & Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
