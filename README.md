@@ -58,20 +58,20 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Fine-Tuning-an-LLM-for-Classification-in-Job-Postings&theme=tokyonight&title_length=100" />
 </a>  
 
-<a href="https://github.com/etorresram/Estimating-Labor-Markets-Transition-Probabilities">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Estimating-Labor-Markets-Transition-Probabilities&theme=tokyonight&title_length=100" />
-</a>  
-
-<a href="https://github.com/etorresram/District-Level-Population-Trends-in-Peru">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=District-Level-Population-Trends-in-Peru&theme=tokyonight&title_length=100" />
-</a>  
-
 <a href="https://github.com/etorresram/NLP-and-Embeddings-for-Economic-Sector-Classification-in-Small-Job-Posting-Data">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=NLP-and-Embeddings-for-Economic-Sector-Classification-in-Small-Job-Posting-Data&theme=tokyonight&title_length=100" />
 </a>  
 
 <a href="https://github.com/etorresram/Unsupervised-Learning-Model-for-Job-Postings-Clustering-and-Skills-Identification">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Unsupervised-Learning-Model-for-Job-Postings-Clustering-and-Skills-Identification&theme=tokyonight&title_length=100" />
+</a>  
+
+<a href="https://github.com/etorresram/Estimating-Labor-Markets-Transition-Probabilities">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Estimating-Labor-Markets-Transition-Probabilities&theme=tokyonight&title_length=100" />
+</a>  
+
+<a href="https://github.com/etorresram/District-Level-Population-Trends-in-Peru">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=District-Level-Population-Trends-in-Peru&theme=tokyonight&title_length=100" />
 </a>  
 
 <a href="https://github.com/etorresram/Sea-Surface-Temperature-and-Anomaly-Dashboard">
