@@ -50,6 +50,10 @@
 
 ## **Featured Projects**
 
+<a href="https://github.com/etorresram/LPI-Prediction-with-MLModels">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=LPI-Prediction-with-MLModels&theme=tokyonight&title_length=100" />
+</a>  
+
 <a href="https://github.com/etorresram/Fine-Tuning-an-LLM-for-Classification-in-Job-Postings">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=etorresram&repo=Fine-Tuning-an-LLM-for-Classification-in-Job-Postings&theme=tokyonight&title_length=100" />
 </a>  
