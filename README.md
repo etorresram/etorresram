@@ -5,7 +5,7 @@
 </p>
 
 
-## ** About Me**
+## ** About Me:**
 🔹 **Economist & Data Scientist** specialized in **Economic Research, Data Analysis, Machine Learning and NLP**.  
 🔹 I have experience in **macroeconomics, econometric modeling, and economic forecasting**.  
 🔹 I build **supervised and unsupervised ML models** applied to **labor markets and economic analysis**.  
